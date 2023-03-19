@@ -1,6 +1,6 @@
 👋 Hi, I’m @mangala-karunarathne 
 
-👀 I’m interested in Web development, web design and doing youtube tutorials. 
+👀 I’m interested in web development and getting familiar MERN stack. 
 
 💞️ I’m working as an Associate Software Engineer at Block Stars PVT Ltd.
 
