@@ -1,4 +1,4 @@
-<img align="center" width="100%" alt="mernStack"  src="https://i.imgur.com/qM2Ieg0.png"/> 
+<img align="center" width="100%" alt="mernStack"  src="https://e1.pxfuel.com/desktop-wallpaper/411/249/desktop-wallpaper-be-your-awesome-mern-stack-developer-by-nishant08111-mern-stack.jpg"/> 
 <h1 align="center">Hi 👋, I'm Mangala Karunarathne</h1>
 <h3 align="center">A passionate Full Stack Web developer from Sri Lanka</h3>
 <img align="center" width="100%" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
